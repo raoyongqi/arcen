@@ -1,3 +1,11 @@
+# 调节 legend 的labeb Name 
+
+修改legend 属性的Word wrapping
+
+
+
+
+
 ### 如何使用这个模板：
 
 1.  **青海高程图片绘制**：
